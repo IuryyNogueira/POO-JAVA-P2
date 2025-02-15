@@ -1,4 +1,5 @@
 public class TV extends Product {
+
     private int inches;
 
     public TV(String brand, double price, int inches) {

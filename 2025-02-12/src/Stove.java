@@ -1,4 +1,5 @@
 public class Stove extends Product {
+
     private int burners; // número de bocas
 
     public Stove(String brand, double price, int burners) {

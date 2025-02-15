@@ -1,4 +1,5 @@
 public class Refrigerator extends Product {
+
     private int size; // capacidade em litros
 
     public Refrigerator(String brand, double price, int size) {
