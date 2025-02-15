@@ -1,0 +1,29 @@
+# Ignorar diretórios e arquivos gerados pelo IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorar diretório de saída da compilação
+/out/
+*.out
+
+# Ignorar arquivos compilados
+*.class
+
+# Ignorar logs
+*.log
+
+# Ignorar pacotes e dependências baixadas pelo Maven e Gradle
+.mvn/
+target/
+build/
+*.jar
+*.war
+*.ear
+
+# Ignorar arquivos do Gradle
+.gradle/
+build/
+
+# Ignorar configurações do sistema operacional
+.DS_Store
+Thumbs.db
